@@ -1,0 +1,4 @@
+Hello Git!
+안녕하세요오오오ㅗ오
+VSCode에서 수정
+git_basic2에서 수정
